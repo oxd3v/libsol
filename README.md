@@ -3,6 +3,8 @@ libsol a usefull solidity usecases library
 
 checkout the packages from npmjs
 [https://www.npmjs.com/package/libsol]
+
+
 run the following command in cli in your project location
 
 ``` npm i libsol ```
