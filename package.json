@@ -1,0 +1,19 @@
+{
+  "name": "libsol",
+  "version": "0.1.0",
+  "description": "A solidity usefull Library packages",
+  "main": "libraries",
+  "scripts": {
+    "test": "npm i libsol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Istiak/libsol.git"
+  },
+  "author": "@mdIstiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Istiak/libsol/issues"
+  },
+  "homepage": "https://github.com/Md-Istiak/libsol#readme"
+}
